@@ -1,0 +1,16 @@
+---
+url: "http://192.168.99.100:8000"
+database:
+  host: "192.168.99.100"
+  dbname: "nflix"
+  user: "postgres"
+  password: "qaninja"
+api:
+  movies: "http://192.168.99.100:3002"
+users:
+  cat_manager:
+      email: "tony@stark.com"
+      pass: "pwd123"
+  admin:
+      email: "admin@nflix.com"
+      pass: "admin123"

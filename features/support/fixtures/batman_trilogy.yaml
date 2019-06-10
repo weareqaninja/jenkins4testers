@@ -1,0 +1,35 @@
+---
+movies:
+- title: Batman Begins
+  status: Disponível
+  year: 2005
+  release_date: 10/10/2005
+  cast:
+  - Christian Bale
+  - Michael Caine
+  - Morgan Freeman
+  overview: O jovem Bruce Wayne viaja para o Extremo Oriente, onde recebe treinamento
+    em artes marciais do mestre Henri Ducard.
+  cover: begins.jpg
+- title: Batman O Cavaleiro das Trevas
+  status: Disponível
+  year: 2008
+  release_date: 10/10/2005
+  cast:
+  - Christian Bale
+  - Heath Ledger
+  - Morgan Freeman
+  overview: Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na
+    cidade de Gotham.
+  cover: dark_knight.jpg
+- title: Batman O Cavaleiro das Trevas Ressurge
+  status: Disponível
+  year: 2012
+  release_date: 10/10/2012
+  cast:
+  - Christian Bale
+  - Anne Hathaway
+  - Tom Hardy
+  overview: Após ser culpado pela morte de Harvey Dent e passar de herói a vilão,
+    Batman desaparece.
+  cover: dark_rises.jpg

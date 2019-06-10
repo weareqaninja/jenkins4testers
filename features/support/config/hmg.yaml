@@ -1,0 +1,16 @@
+---
+url: "http://nflix.papito.io"
+database:
+  host: "104.237.137.68"
+  dbname: "nflix"
+  user: "postgres"
+  password: "qaninja"
+api:
+  movies: "http://api.nflix.papito.io:3002"
+users:
+  cat_manager:
+      email: "tony@stark.com"
+      pass: "pwd123"
+  admin:
+      email: "admin@nflix.com"
+      pass: "admin123"
