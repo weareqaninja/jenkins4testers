@@ -19,4 +19,4 @@ Funcionalidade: Busca
     Cenario: Busca 404
 
         Quando eu faço uma busca pelo termo "American Pie"
-        Então devo ver a mensagem "Opps! não encontramos nada aqui :("
+        Então devo ver a mensagem "Puxa! não encontramos nada aqui :("
