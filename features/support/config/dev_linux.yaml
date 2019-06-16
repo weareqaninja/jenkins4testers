@@ -1,7 +1,7 @@
 ---
 url: "http://nflix-web:8080"
 database:
-  host: "127.0.0.1"
+  host: "pgdb"
   dbname: "nflix"
   user: "postgres"
   password: "qaninja"
