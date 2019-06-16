@@ -6,7 +6,7 @@ class LoginPage < BasePage
   def with(email, pass)
     find("input[name=email]").set email
     find("input[name=password]").set pass
-    click_button "Entrar"
+    find(".btn-danger").click
   end
 
   def alert
