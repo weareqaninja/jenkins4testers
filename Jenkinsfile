@@ -15,7 +15,7 @@ pipeline {
         }
         stage("Tests") {
             steps {
-                sh "bundle exec cucumber -p dev -p headless -p json -p pretty"
+                sh "bundle exec cucumber -p dev_linux -p headless -p json -p pretty"
             }
             post {
                 always {
