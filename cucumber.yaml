@@ -3,6 +3,7 @@ default: -p dev_toolbox -p firefox -p html -p progress
 ci: -p dev_toolbox -p headless -p json -p pretty
 dev: ENV_TYPE=dev
 dev_toolbox: ENV_TYPE=dev_toolbox
+dev_linux: ENV_TYPE=dev_linux
 hmg: ENV_TYPE=hmg
 firefox: BROWSER=firefox
 chrome: BROWSER=chrome
