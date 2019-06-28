@@ -1,5 +1,5 @@
 ---
-url: "http://nflix-web:8000"
+url: "http://nflix-web:8080"
 database:
   host: "pgdb"
   dbname: "nflix"
