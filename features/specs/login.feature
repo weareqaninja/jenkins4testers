@@ -1,5 +1,6 @@
 #language: pt
 
+@smoke
 Funcionalidade: Login
     Para que eu possa gerenciar os filmes do catálogo Ninjaflix
     Sendo um usuário previamente cadastrado
