@@ -8,6 +8,7 @@ pipeline {
   stages {
     stage("Build") {
       steps {
+        sh "./build/alpine.sh"
         sh "bundle install"
       }
     }
