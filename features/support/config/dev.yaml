@@ -9,5 +9,6 @@ api:
   movies: "http://nflix-api-movies:3002"
 users:
   cat_manager:
+    name: "Tony Stark"
     email: "tony@stark.com"
     pass: "pwd123"
