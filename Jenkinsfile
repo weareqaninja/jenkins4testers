@@ -1,3 +1,3 @@
 node {
-  sh "echo 'hello world'"
+  sh "cucumber -p ci"
 }
